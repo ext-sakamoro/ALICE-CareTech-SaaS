@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_CARETECH
+name: alice-caretech
 description: ALICE CareTech
 type: application
 version: 0.1.0
